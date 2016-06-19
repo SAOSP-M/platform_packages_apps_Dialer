@@ -127,7 +127,7 @@
     <string name="voice_search_not_available" msgid="2977719040254285301">"Голосовой поиск недоступен"</string>
     <string name="call_not_available" msgid="8941576511946492225">"Нельзя совершать телефонные звонки, поскольку приложение \"Телефон\" отключено."</string>
     <string name="activity_not_available" msgid="2287665636817987623">"На устройстве нет подходящего приложения"</string>
-    <string name="dialer_hint_find_contact" msgid="1012544667033887519">"Введите имя или номер телефона"</string>
+    <string name="dialer_hint_find_contact" msgid="1012544667033887519">"Введите имя или номер"</string>
     <string name="recentMissed_empty" msgid="4901789420356796156">"Вызовов нет."</string>
     <string name="recentVoicemails_empty" msgid="8582424947259156664">"Сообщений нет."</string>
     <string name="show_favorites_only" msgid="5520072531022614595">"Только часто используемые"</string>
@@ -190,4 +190,7 @@
     <string name="respond_via_sms_setting_title" msgid="1318281521087951580">"Быстрые ответы"</string>
     <string name="call_settings_label" msgid="313434211353070209">"Вызовы"</string>
     <string name="phone_account_settings_label" msgid="5864322009841175294">"Аккаунты для звонков"</string>
+    <string name="call_log_action_send_message">Отправить сообщение</string>
+    <string name="search_shortcut_add_to_contact">Добавить в контакты</string>
+    <string name="show_call_history">Посмотреть весь журнал звонков</string>
 </resources>
