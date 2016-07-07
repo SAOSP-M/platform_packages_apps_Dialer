@@ -193,4 +193,7 @@
     <string name="call_log_action_send_message">Отправить сообщение</string>
     <string name="search_shortcut_add_to_contact">Добавить в контакты</string>
     <string name="show_call_history">Посмотреть весь журнал звонков</string>
+    
+    <!-- A nicely formatted call duration displayed when viewing call details for duration less than 1 minute. For example "28 sec" -->
+    <string name="callDetailsShortDurationFormat"><xliff:g id="seconds" example="28">%s</xliff:g> сек.</string>
 </resources>
